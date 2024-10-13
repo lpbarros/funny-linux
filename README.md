@@ -1,7 +1,7 @@
 # funny-linux
 A simple Debian fork
 
-#Defaults
-username = funny
-password = funny
-root-password = funny
+#Defaults <br/>
+username = funny <br/>
+password = funny <br/>
+root-password = funny <br/>
